@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='en-US'>
+<ID>4885F116-E941-42B7-A77B-D32EEAFF0124</ID>
+<name>CWS_Basemap</name>
+<version>11.4</version>
+<size>-1</size>
+<created></created>
+<type>Tile Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>Lyr</documenttype>
+</documenttypes>
+</pkinfo>

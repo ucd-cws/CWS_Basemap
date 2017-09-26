@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>CWS_Basemap</name>
+<guid>4885F116-E941-42B7-A77B-D32EEAFF0124</guid>
+<version>1.0</version>
+<created></created>
+<modified></modified>
+<catalogpath></catalogpath>
+<snippet>CWS Basemap with hydrography and hillshade</snippet>
+<description>&lt;DIV STYLE=&quot;text-align:Left;font-size:12pt&quot;&gt;&lt;P&gt;&lt;SPAN&gt;A basemap with hydrography and a hillshade for CWS use&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;</description>
+<summary>CWS Basemap with hydrography and hillshade</summary>
+<title>CWS_Basemap</title>
+<tags>CWS, basemap,Data,Tile Package,ArcMap,ArcGlobe,tpk</tags>
+<type>Tile Package</type>
+<typekeywords>
+<typekeyword>Data</typekeyword>
+<typekeyword>Tile Package</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>ArcGlobe</typekeyword>
+<typekeyword>tpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<extent>
+<xmin>-122.322210980687</xmin>
+<ymin>37.7812949246264</ymin>
+<xmax>-120.187091369875</xmax>
+<ymax>38.7681392214678</ymax>
+</extent>
+<spatialreference>None</spatialreference>
+<minScale>591657527.591555</minScale>
+<maxScale>1128.4971760000001</maxScale>
+<datalastModifiedTime></datalastModifiedTime>
+<accessinformation>Nick Santos, NHDPlus, NED</accessinformation>
+<licenseinfo></licenseinfo>
+</ESRI_ItemInformation>
